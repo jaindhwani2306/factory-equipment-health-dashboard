@@ -66,13 +66,6 @@ The dataset contains industrial telemetry information including:
 ## Project Objective
 To build an interactive analytics dashboard that supports equipment monitoring, operational analysis, and predictive maintenance decision-making in industrial environments.
 
----
-
-## Future Improvements
-- Real-time IoT data integration
-- Predictive maintenance using Machine Learning
-- Alert system for abnormal temperature spikes
-- Advanced analytics with Python integration
 
 ---
 
